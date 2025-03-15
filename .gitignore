@@ -9,3 +9,6 @@ __pycache__/
 # Some other stuff
 .DS_Store
 Thumbs.db
+
+# Mnist dataset
+Tutorial/mnist.npz
