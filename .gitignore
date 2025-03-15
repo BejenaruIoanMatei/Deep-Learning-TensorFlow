@@ -11,4 +11,7 @@ __pycache__/
 Thumbs.db
 
 # Mnist dataset
-Tutorial/mnist.npz
+Classifiers/DigitsClassification/mnist.npz
+
+# Fashion-MNIST dataset
+Classifiers/Fashion-MNIST/dataset
