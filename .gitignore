@@ -1,0 +1,11 @@
+# Ignore Virtual Environment
+env/
+
+# Ignore Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Some other stuff
+.DS_Store
+Thumbs.db
