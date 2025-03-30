@@ -15,3 +15,9 @@ Classifiers/DigitsClassification/mnist.npz
 
 # Fashion-MNIST dataset
 Classifiers/Fashion-MNIST/dataset
+
+# Kaggle Flower Dataset
+flowers_kaggle
+
+# Jupyter Notebook stuff
+.ipynb_checkpoints
