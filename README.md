@@ -12,3 +12,4 @@ Used for learning and experimenting with Deep Learning using TensorFlow by follo
 # Projects that i'm currently working on:
 - Satellite Image Classification, link: [CIS](https://github.com/BejenaruIoanMatei/CIS)
 - NN/NLP Cat Breed Classifier, link: [Catology](https://github.com/BejenaruIoanMatei/CIS)
+- CNN Classifier (Flower Recognition): [Plantsy](https://github.com/BejenaruIoanMatei/Plantsy)
